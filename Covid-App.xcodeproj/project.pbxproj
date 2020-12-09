@@ -52,6 +52,8 @@
 		B83A527B25808DA5006C7D24 /* Covid-App */ = {
 			isa = PBXGroup;
 			children = (
+				B8AB9E48258098B800C90E85 /* View */,
+				B8AB9E47258098B300C90E85 /* Model */,
 				B83A527C25808DA5006C7D24 /* Covid_AppApp.swift */,
 				B83A527E25808DA5006C7D24 /* ContentView.swift */,
 				B83A528025808DA6006C7D24 /* Assets.xcassets */,
@@ -67,6 +69,20 @@
 				B83A528325808DA6006C7D24 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B8AB9E47258098B300C90E85 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B8AB9E48258098B800C90E85 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
